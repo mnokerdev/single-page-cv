@@ -16,7 +16,7 @@ This project only requires a web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/mnokerdev/single-page-cv.git
    ```
 2. ```bash
    open index.html
